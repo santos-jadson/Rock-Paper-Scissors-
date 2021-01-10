@@ -1,6 +1,6 @@
 ## rock paper scissors
 
-![Rock Paper Scissors app]('/../assets/appDesign3.png)
+![Rock Paper Scissors app]('/../assets/appDesign.png)
 
 A new Flutter project.
 
